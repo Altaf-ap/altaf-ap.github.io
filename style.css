@@ -1,0 +1,28 @@
+body, html {
+	height: 100%;
+	font-size: 2rem;
+}
+
+.container-fluid{
+	background-image: url(andrew-neel-308138-unsplash.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+h1{
+	color: white;
+	text-shadow: 2px 2px 4px black;
+}
+
+.btn{
+	margin-bottom: 30px;
+	margin-top: 150px;
+}
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
